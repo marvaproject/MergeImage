@@ -2,56 +2,41 @@
 
 <br />
 
-<!-- Logo Glow / Floating App Icon -->
+<!-- App Icon -->
 <a href="https://github.com/marvaproject/MergeImage/releases/latest/download/MergeImage-v1.0.0-macOS.dmg">
-  <img src="AppIcon.iconset/icon_256x256@2x.png" width="130" height="130" alt="Merge Image App Icon" />
+  <img src="AppIcon.iconset/icon_256x256@2x.png" width="120" height="120" alt="Merge Image App Icon" />
 </a>
 
-<h1 align="center" style="font-size: 2.2rem; font-weight: 800; margin-top: 12px; margin-bottom: 6px;">
+<h1 align="center" style="font-size: 2.2rem; font-weight: 800; margin-top: 10px; margin-bottom: 6px;">
   Merge Image
 </h1>
 
-<p align="center" style="font-size: 1.15rem; color: #6e6e73; max-width: 600px; line-height: 1.5;">
-  <b>Studio Penggabung Foto Native untuk Mac.</b><br />
-  Gabungkan gambar tanpa batas ke samping, tumpuk ke bawah, atau susun kisi (grid) dengan kontrol border presisi — <b>100% Instan, Ringan, & Offline.</b>
+<p align="center" style="font-size: 1.1rem; color: #6e6e73; max-width: 600px; line-height: 1.5;">
+  Aplikasi native macOS yang super cepat, ringan, dan 100% offline untuk menggabungkan banyak foto secara horizontal, vertikal, atau kisi (grid).
 </p>
 
 <br />
 
-<!-- Hero Action Area (Single Blue Apple Button + Quick Info Pills) -->
+<!-- Single Blue Download Button -->
 <a href="https://github.com/marvaproject/MergeImage/releases/latest/download/MergeImage-v1.0.0-macOS.dmg">
-  <img src="https://img.shields.io/badge/Download%20for%20macOS-007AFF?style=for-the-badge&logo=apple&logoColor=white" height="52" alt="Download for macOS" />
+  <img src="https://img.shields.io/badge/Download%20for%20macOS-007AFF?style=for-the-badge&logo=apple&logoColor=white" height="50" alt="Download for macOS" />
 </a>
 
 <br /><br />
 
-<p align="center">
-  <kbd>⌘ macOS Monterey 12.0+</kbd> &nbsp;•&nbsp; 
-  <kbd>⚡ Apple Silicon & Intel</kbd> &nbsp;•&nbsp; 
-  <kbd>📦 Installer DMG (~700 KB)</kbd>
-</p>
+<!-- Uniform Standard Badges (1 Desain Konsisten) -->
+[![macOS](https://img.shields.io/badge/Platform-macOS-lightgrey?logo=apple)](https://apple.com)
+[![Version](https://img.shields.io/badge/Version-v1.0.0-blue)](https://github.com/marvaproject/MergeImage/releases/latest)
+[![Privasi](https://img.shields.io/badge/Privacy-100%25%20Offline-success)](https://github.com)
+[![Ukuran](https://img.shields.io/badge/Size-~700%20KB-brightgreen)](https://github.com)
+[![Iklan](https://img.shields.io/badge/Ads-Free-purple)](https://github.com)
+[![Lisensi](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
-<br />
+<br /><br />
 
-<!-- Badges Showcase Grid -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Versi-v1.0.0%20Latest-007AFF?style=flat-square&logo=git&logoColor=white" alt="Version" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Privasi-100%25%20Offline%20Local-34C759?style=flat-square&logo=apple&logoColor=white" alt="Privacy" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Iklan-Nol%20(Bebas%20Iklan)-5856D6?style=flat-square" alt="No Ads" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Performa-Anti--Lag%2060%20FPS-FF9500?style=flat-square&logo=speedtest&logoColor=white" alt="Performance" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Lisensi-MIT%20Gratis-AF52DE?style=flat-square" alt="License" />
-</p>
-
-<br />
-
-<!-- Showcase Window Mockup with Accent Line -->
+<!-- Screenshot Preview -->
 <div align="center">
-  <p align="center"><b>✨ Tampilan Antarmuka Aplikasi</b></p>
-  <img src="preview.png" alt="Merge Image macOS App Showcase" width="860" style="border-radius: 16px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 20px 40px -15px rgba(0,0,0,0.3);" />
+  <img src="preview.png" alt="Merge Image macOS App Showcase" width="860" style="border-radius: 14px; box-shadow: 0 12px 32px rgba(0,0,0,0.18);" />
 </div>
 
 <br />
@@ -60,58 +45,47 @@
 
 ---
 
-## ⚡ 3 Keunggulan Utama
+## 🚀 Panduan Penggunaan Mudah
 
-<div align="center">
-
-| 🧩 Tata Letak Bebas | 🎨 Kustomisasi Penuh | 🛡️ 100% Privat & Lokal |
-| :---: | :---: | :---: |
-| Susun **Horizontal**, **Vertikal**, atau matriks **Grid** (1–10 kolom) secara otomatis dan rapi. | Atur ketebalan border, ganti warna bingkai, dan buat sudut foto membulat halus (*rounded*). | Seluruh pemrosesan berjalan di memori Mac Anda tanpa perlu koneksi internet atau server luar. |
-
-</div>
+1. **Unduh**: Klik tombol biru **Download for macOS** di atas.
+2. **Buka**: Buka file installer `.dmg` yang selesai diunduh.
+3. **Pasang**: Seret ikon **Merge Image** ke folder **Applications**.
+4. **Selesai**: Buka aplikasinya dari Launchpad atau Finder, dan siap digunakan kapan saja!
 
 ---
 
-## 🚀 Panduan Mulai Cepat
+## ✨ Fitur-Fitur Menarik
 
-Tidak butuh setup atau instalasi rumit:
-
-1. Klik tombol **[Download for macOS](https://github.com/marvaproject/MergeImage/releases/latest/download/MergeImage-v1.0.0-macOS.dmg)** di atas.
-2. Buka file **`MergeImage-v1.0.0-macOS.dmg`** yang terunduh.
-3. Seret ikon **Merge Image** ke folder **Applications**.
-4. Buka aplikasi, seret foto Anda, dan simpan hasilnya dalam sekejap!
-
----
-
-## 💡 Fitur Lengkap
-
-- 📐 **3 Mode Layout**: Horizontal proporsional, Vertikal presisi, dan Grid cerdas.
-- 🎨 **Border & Corner Radius**: Dukungan penuh border luar, pembatas dalam saja, ketebalan bebas (0–100 px), dan lengkungan sudut foto.
-- 🔄 **Drag & Drop Reorder**: Ubah urutan susunan foto hanya dengan menggeser baris gambar dengan animasi spring physics Apple yang sangat mulus.
-- ⚡ **Dual-Engine Anti-Lag**: Pratinjau kanvas super ringan (60 FPS) tanpa membebani CPU/laptop, sementara hasil akhir diekspor pada **100% resolusi asli penuh**.
-- 💾 **Ekspor Instan**: Tombol cepat menyimpan langsung ke folder `~/Downloads` tanpa popup dialog yang memperlambat alur kerja Anda.
-- 🖼️ **Dukungan Format Luas**: PNG, JPEG, JPG, WebP, HEIC (iPhone), dan TIFF.
+| Fitur | Penjelasan |
+| :--- | :--- |
+| 📐 **3 Tata Letak Rapi** | Susun foto ke samping (**Horizontal**), tumpuk ke bawah (**Vertikal**), atau rapi seperti album (**Grid / Kisi**) dengan jumlah kolom bebas. |
+| 🎨 **Border & Sudut Melengkung** | Atur ketebalan bingkai, ganti warna border sesuka hati, dan buat sudut foto membulat halus (*rounded corners*). |
+| 🔄 **Seret untuk Urutan** | Cukup seret baris gambar ke atas atau bawah untuk mengatur urutan susunan secara instan dengan animasi yang memanjakan mata. |
+| ⚡ **Sangat Cepat & Tanpa Lag** | Menggeser pengaturan terasa instan tanpa jeda, hemat baterai, dan laptop tidak akan bekerja berat. |
+| 📸 **Kualitas Gambar Asli** | Tidak ada penurunan kualitas foto, gambar disimpan 100% jernih dan tajam seperti aslinya. |
+| 💾 **Simpan Sekali Klik** | Hasil gabungan langsung tersimpan ke folder Downloads Anda lengkap dengan tombol pintas untuk langsung melihatnya. |
+| 🔒 **Privasi 100% Aman** | Seluruh proses berjalan di Mac Anda sendiri tanpa pernah mengirim data atau foto Anda ke internet. |
 
 ---
 
-## 💬 Tanya Jawab (FAQ)
+## 💬 Pertanyaan yang Sering Diajukan (FAQ)
 
 <details>
-<summary><b>Apakah ada watermark pada gambar hasil ekspor?</b></summary>
-Tidak ada watermark sama sekali. Gambar Anda bersih 100% seperti aslinya.
+<summary><b>Apakah aplikasi ini memerlukan koneksi internet?</b></summary>
+Sama sekali tidak. Aplikasi ini 100% offline. Anda bisa menggunakannya di mana saja tanpa kuota internet.
 </details>
 
 <details>
-<summary><b>Apakah bisa menggabungkan banyak foto resolusi tinggi (4K/HD)?</b></summary>
-Bisa banget! Berkat mesin perenderan CoreGraphics yang dioptimasi, Anda bisa memasukkan foto kamera beresolusi tinggi tanpa khawatir aplikasi menjadi lemot.
+<summary><b>Format gambar apa saja yang bisa digabungkan?</b></summary>
+Mendukung semua format gambar populer seperti PNG, JPG, JPEG, WebP, HEIC (foto iPhone), dan TIFF.
 </details>
 
 <details>
-<summary><b>Bagaimana privasi foto saya?</b></summary>
-Aplikasi ini berjalan 100% offline di perangkat Anda. Foto tidak pernah dikirim ke internet atau server mana pun.
+<summary><b>Apakah ada watermark atau batasan jumlah gambar?</b></summary>
+Tidak ada watermark sama sekali dan tidak ada batasan jumlah foto. Anda bebas menggabungkan gambar sebanyak yang Anda butuhkan.
 </details>
 
 ---
 
 ## 📜 Lisensi
-Aplikasi ini 100% gratis dan open-source di bawah naungan Lisensi [MIT](LICENSE).
+Aplikasi ini bersifat gratis dan terbuka di bawah naungan Lisensi [MIT](LICENSE). Bebas digunakan oleh siapa saja.
