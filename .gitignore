@@ -1,6 +1,9 @@
 .DS_Store
+.build/
 .module-cache/
+temp_dmg/
 *.swp
 *.log
+*.zip
+*.dmg
 Merge Image.app/
-MergeImage-v1.0.0-macOS.zip
