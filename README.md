@@ -8,9 +8,11 @@
 
 <br />
 
-[![Download DMG](https://img.shields.io/badge/Download-macOS%20(.dmg)-black?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/marvaproject/MergeImage/releases/latest/download/MergeImage-v1.0.0-macOS.dmg)
+<a href="https://github.com/marvaproject/MergeImage/releases/latest/download/MergeImage-v1.0.0-macOS.dmg">
+  <img src="https://img.shields.io/badge/Download%20macOS-007AFF?style=for-the-badge" alt="Download macOS" />
+</a>
 
-<br />
+<br /><br />
 
 *(Kompatibel dengan macOS 12.0 Monterey atau lebih baru)*
 
@@ -20,7 +22,7 @@
 
 ## Cara Pakai
 
-1. Klik tombol **Download macOS (.dmg)** di atas.
+1. Klik tombol **Download macOS** di atas.
 2. Buka file `.dmg` yang selesai diunduh.
 3. Seret ikon **Merge Image** ke folder **Applications**.
 4. Buka aplikasinya dan siap digunakan.
