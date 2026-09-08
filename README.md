@@ -24,28 +24,22 @@
 
 <br /><br />
 
-<!-- Baris 1 Badge -->
 [![macOS](https://img.shields.io/badge/Platform-macOS-lightgrey?logo=apple)](https://apple.com)
 [![Version](https://img.shields.io/badge/Version-v1.0.0-blue)](https://github.com/marvaproject/MergeImage/releases/latest)
 [![Privasi](https://img.shields.io/badge/Privacy-100%25%20Offline-success)](https://github.com)
 [![Ukuran](https://img.shields.io/badge/Size-~700%20KB-brightgreen)](https://github.com)
-
-<br />
-
-<!-- Baris 2 Badge -->
 [![Iklan](https://img.shields.io/badge/Ads-Free-purple)](https://github.com)
 [![Status](https://img.shields.io/badge/Status-Ready%20to%20Use-orange)](https://github.com/marvaproject/MergeImage/releases/latest)
 [![Kompatibilitas](https://img.shields.io/badge/macOS-12.0%2B-informational)](https://apple.com)
 [![Lisensi](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
-<br /><br />
+<br />
 
-<!-- Penanda Screenshot Aplikasi -->
 <p align="center">
-  <b>📸 Pratinjau Antarmuka Aplikasi</b>
+  <b>📸 Screenshot</b>
 </p>
 
-<img src="preview.png" alt="Merge Image macOS App Showcase" width="860" style="border-radius: 14px; box-shadow: 0 12px 32px rgba(0,0,0,0.18);" />
+<img src="preview.png" alt="Merge Image macOS App Showcase" width="860" style="border-radius: 10px; box-shadow: 0 12px 32px rgba(0,0,0,0.18);" />
 
 <br />
 
