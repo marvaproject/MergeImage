@@ -10,7 +10,7 @@ Gabungkan banyak foto secara horizontal, vertikal, atau kisi (grid) dengan kusto
 <br />
 
 <a href="https://github.com/marvaproject/MergeImage/releases/latest/download/MergeImage-v1.0.0-macOS.dmg">
-  <img src="https://img.shields.io/badge/Download%20for%20macOS-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS" />
+  <img src="https://img.shields.io/badge/Download%20for%20macOS-007AFF?style=for-the-badge&logo=apple&logoColor=white" height="48" alt="Download for macOS" />
 </a>
 
 <br /><br />
