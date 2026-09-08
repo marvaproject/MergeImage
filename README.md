@@ -10,7 +10,7 @@ Gabungkan banyak foto secara horizontal, vertikal, atau kisi (grid) dengan kusto
 <br />
 
 <a href="https://github.com/marvaproject/MergeImage/releases/latest/download/MergeImage-v1.0.0-macOS.dmg">
-  <img src="https://img.shields.io/badge/Download%20macOS-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Download macOS" />
+  <img src="https://img.shields.io/badge/Download%20for%20macOS-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS" />
 </a>
 
 <br /><br />
@@ -38,7 +38,7 @@ Gabungkan banyak foto secara horizontal, vertikal, atau kisi (grid) dengan kusto
 
 Tidak perlu instalasi yang rumit, cukup ikuti langkah sederhana ini:
 
-1. **Unduh**: Klik tombol biru **Download macOS** di atas.
+1. **Unduh**: Klik tombol biru **Download for macOS** di atas.
 2. **Buka**: Buka file installer `.dmg` yang telah selesai didownload.
 3. **Pasang**: Cukup seret (drag) ikon **Merge Image** ke folder **Applications**.
 4. **Selesai**: Buka aplikasinya dari Launchpad atau Finder, dan siap digunakan kapan saja!
