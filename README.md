@@ -26,6 +26,11 @@ Gabungkan banyak foto secara horizontal, vertikal, atau kisi (grid) dengan kusto
 [![Biaya](https://img.shields.io/badge/Biaya-Gratis%20Selamanya-purple?style=flat-square)](https://github.com)
 [![Lisensi](https://img.shields.io/badge/Lisensi-Gratis%20Bebas-yellow?style=flat-square)](LICENSE)
 
+<br /><br />
+
+<!-- Tangkapan Layar Aplikasi Rounded -->
+<img src="preview.png" alt="Merge Image Screenshot Preview" width="820" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" />
+
 <br />
 
 *(Kompatibel dengan macOS 12.0 Monterey, Ventura, Sonoma, Sequoia, dan versi yang lebih baru)*
